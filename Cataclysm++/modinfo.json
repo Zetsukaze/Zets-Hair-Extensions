@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "zets_hair_ext_cata++",
+    "name": "Zetsukaze's Hair For Cataclysm++",
+    "authors": [ "Zetsukaze" ],
+    "maintainers": [ "Zetsukaze" ],
+    "description": "Adds hairs, eyes and skins for DeadPeopleTileset. For Cata++ NPCs",
+    "category": "misc_additions",
+    "dependencies": [ "zets_hair_extensions", "Cata++" ]
+  }
+]

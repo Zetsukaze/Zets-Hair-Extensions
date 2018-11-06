@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "zets_hair_ext_more_locations",
+    "name": "Zetsukaze's Hair For More Locations",
+    "authors": [ "Zetsukaze" ],
+    "maintainers": [ "Zetsukaze" ],
+    "description": "Adds hairs, eyes and skins for DeadPeopleTileset. For More Locations NPCs",
+    "category": "misc_additions",
+    "dependencies": [ "zets_hair_extensions", "more_locations" ]
+  }
+]

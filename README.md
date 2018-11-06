@@ -5,10 +5,10 @@ Hehe pun intended. Created to fix the Hairs+ mod for DeadPeopleTileset. Also, th
 Requires [DeadPeopleTileset](https://github.com/SomeDeadGuy/Cata-MSX-DeadPeopleTileset). It's a great tileset! Try it out :satisfied:
 
 # Usage Guide
-1. Remove the dependency from [modinfo.json](modinfo.json)
-2. Remove the files of the mods that you don't play with
+1. Copy the entire mod folder to `<CDDAInstallationFolder>\data\mods`
+2. Copy the files of the mods you play with into the root folder
 
-For example, if you do not play with [Cataclysm++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod), then remove `Cata++` from [modinfo.json](modinfo.json) and the `cata++` JSON files. Easy, right?
+For example, if you play with [Cataclysm++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod), then copy the files in the `Cataclysm++` folder out into the `Zets-Hair-Extensions` folder. Easy right?
 
 ## Info
 Based the chances roughly on US statistics, if you know any that are more accurate point me in that direction!
