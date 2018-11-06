@@ -6,9 +6,10 @@ Requires [DeadPeopleTileset](https://github.com/SomeDeadGuy/Cata-MSX-DeadPeopleT
 
 # Usage Guide
 1. Copy the entire mod folder to `<CDDAInstallationFolder>\data\mods`
-2. Copy the files of the mods you play with into `<CDDAInstallationFolder>\data\mods` as well
+2. Extract the ZIPs of the mods that you play into the mod folder
+3. Enable `Zetsukaze's Hair Extensions` and enjoy the variety of hairs, eyes and skins!
 
-For example, if you play with [Cataclysm++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod), then copy the files in the `Zets-Hair-Cataclysm++` folder out into the `<CDDAInstallationFolder>\data\mods` folder. Easy right?
+For example, if you play with [Cataclysm++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod), then unzip the folder `Zets-Hair-Cataclysm++.zip` folder into `Zets-Hair-Extensions`. Easy right?
 
 ## Info
 Based the chances roughly on US statistics, if you know any that are more accurate point me in that direction!
