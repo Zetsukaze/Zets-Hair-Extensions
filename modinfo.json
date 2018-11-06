@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "zets_hair_extensions",
+    "name": "Zetsukaze's Hair Extensions!",
+    "authors": [ "Zetsukaze" ],
+    "maintainers": [ "Zetsukaze" ],
+    "description": "Adds hairs, eyes and skins for DeadPeopleTileset. NPCs are supported via 'NPC traits' and 'Mutant NPCs' mods.",
+    "category": "misc_additions",
+    "dependencies": [ "dda", "npc_traits", "Cata++", "more_locations" ]
+  }
+]

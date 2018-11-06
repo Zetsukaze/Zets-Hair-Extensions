@@ -1,0 +1,402 @@
+[
+  {
+    "id": "EYE_BLUE",
+    "type": "mutation",
+    "name": "Blue Eyes",
+    "description": "Your natural eye colour is blue.",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+	  "profession": true,
+    "cancels": [
+      "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP","SKIN_PINK_JP", "SKIN_TAN_JP"
+    ]
+  },
+  {
+    "id": "EYE_BLUE_JP",
+    "type": "mutation",
+    "name": "Cute Bright Blue Eyes",
+    "description": "Your natural eye colour is a bright blue. ~Kawaii~",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+    "profession": true,
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_BLUE_JP_2",
+    "type": "mutation",
+    "name": "Cute Dark Blue Eyes",
+    "description": "Your natural eye colour is a dark blue. ~Kawaii~",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+    "profession": true,
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_BROWN",
+    "type": "mutation",
+    "name": "Brown Eyes",
+    "description": "Your natural eye colour is brown.",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+	  "profession": true,
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP","SKIN_PINK_JP", "SKIN_TAN_JP"
+    ]
+  },
+  {
+    "id": "EYE_BROWN_JP",
+    "type": "mutation",
+    "name": "Cute Bright Brown Eyes",
+    "description": "Your natural eye colour is a bright brown. ~Kawaii~",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+    "profession": true,
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_BROWN_JP_2",
+    "type": "mutation",
+    "name": "Cute Dark Brown Eyes",
+    "description": "Your natural eye colour is a dark brown. ~Kawaii~",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+    "profession": true,
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_GRAY",
+    "type": "mutation",
+    "name": "Gray Eyes",
+    "description": "Your natural eye colour is gray.",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+	  "profession": true,
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP","SKIN_PINK_JP", "SKIN_TAN_JP"
+    ]
+  },
+  {
+    "id": "EYE_GRAY_JP",
+    "type": "mutation",
+    "name": "Cute Bright Gray Eyes",
+    "description": "Your natural eye colour is a bright gray. ~Kawaii~",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+    "profession": true,
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_GRAY_JP_2",
+    "type": "mutation",
+    "name": "Cute Dark Gray Eyes",
+    "description": "Your natural eye colour is a dark gray. ~Kawaii~",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+    "profession": true,
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_GREEN",
+    "type": "mutation",
+    "name": "Green Eyes",
+    "description": "Your natural eye colour is green.",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+	  "profession": true,
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP","SKIN_PINK_JP", "SKIN_TAN_JP"
+    ]
+  },
+  {
+    "id": "EYE_GREEN_JP",
+    "type": "mutation",
+    "name": "Cute Bright Green Eyes",
+    "description": "Your natural eye colour is a bright green. ~Kawaii~",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+    "profession": true,
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_GREEN_JP_2",
+    "type": "mutation",
+    "name": "Cute Dark Green Eyes",
+    "description": "Your natural eye colour is a dark green. ~Kawaii~",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+    "profession": true,
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_PURPLE_JP",
+    "type": "mutation",
+    "name": "Cute Bright Purple Eyes",
+    "description": "Your natural eye colour is a bright purple. ~Kawaii~",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+    "profession": true,
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_PURPLE_JP_2",
+    "type": "mutation",
+    "name": "Cute Dark Purple Eyes",
+    "description": "Your natural eye colour is a dark purple. ~Kawaii~",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+    "profession": true,
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_RED",
+    "type": "mutation",
+    "name": "Red Eyes",
+    "description": "Your natural eye colour is red.",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+	  "profession": true,
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP","SKIN_PINK_JP", "SKIN_TAN_JP"
+    ]
+  },
+  {
+    "id": "EYE_RED_JP",
+    "type": "mutation",
+    "name": "Cute Bright Red Eyes",
+    "description": "Your natural eye colour is a bright red. ~Kawaii~",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+	  "profession": true,
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_RED_JP_2",
+    "type": "mutation",
+    "name": "Cute Dark Red Eyes",
+    "description": "Your natural eye colour is a dark red. ~Kawaii~",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+	  "profession": true,
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP",
+      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_YELLOW",
+    "type": "mutation",
+    "name": "Yellow Eyes",
+    "description": "Your natural eye colour is yellow.",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+	  "profession": true,
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
+      "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP","SKIN_PINK_JP", "SKIN_TAN_JP"
+    ]
+  },
+  {
+    "id": "EYE_YELLOW_JP",
+    "type": "mutation",
+    "name": "Cute Bright Yellow Eyes",
+    "description": "Your natural eye colour is a bright yellow. ~Kawaii~",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+	  "profession": true,
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP_2",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  },
+  {
+    "id": "EYE_YELLOW_JP_2",
+    "type": "mutation",
+    "name": "Cute Dark Yellow Eyes",
+    "description": "Your natural eye colour is a dark yellow. ~Kawaii~",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+	  "profession": true,
+    "cancels": [
+      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
+      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
+      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
+      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
+      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
+      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
+      "EYE_YELLOW", "EYE_YELLOW_JP",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN"
+    ]
+  }
+]
