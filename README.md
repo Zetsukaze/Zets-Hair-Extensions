@@ -16,7 +16,7 @@ Based the chances roughly on US statistics, if you know any that are more accura
 
 For the skins, they are determined after what eye colour you get, as certain eye sprites (Anime style cute eyes) go with certain skin sprites only.
 
-# List of Supported Mods
+## List of Supported Mods
 * [Cataclysm++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod)
 * More Locations
 * [PK's Rebalancing](https://github.com/dissociativity/PKs_Rebalancing)
