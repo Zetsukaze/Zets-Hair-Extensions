@@ -12,9 +12,10 @@ Requires [DeadPeopleTileset](https://github.com/SomeDeadGuy/Cata-MSX-DeadPeopleT
 For example, if you play with [Cataclysm++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod), then unzip the folder `Zets-Hair-Cata-plusplus.zip` folder into `Zets-Hair-Extensions`. Easy right?
 
 ## Info
-Based the chances roughly on US statistics, if you know any that are more accurate point me in that direction!
+Weighted chances of hair, eye and skin colour based on ethnicity statistics. If you have more accurate data statistics that I could use, please do share!
+* [Race Statistics](https://statisticalatlas.com/division/New-England/Race-and-Ethnicity)
+* [Hair and Eye Colour](http://www.gnxp.com/blog/2008/12/nlsy-blogging-eye-and-hair-color-of.php)
 
-For the skins, they are determined after what eye colour you get, as certain eye sprites (Anime style cute eyes) go with certain skin sprites only.
 
 ## List of Supported Mods
 * [Cataclysm++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod)
