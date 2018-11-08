@@ -8,7 +8,7 @@ Requires [DeadPeopleTileset](https://github.com/SomeDeadGuy/Cata-MSX-DeadPeopleT
 1. Copy the entire mod folder to `<CDDAInstallationFolder>\data\mods`
 2. Extract the ZIPs of the mods that you play into the mod folder
 3. Enable `Zetsukaze's Hair Extensions` and enjoy the variety of hairs, eyes and skins!
-4. Optional: To enable *\~Kawaii\~* features, extract `Zets-Hair-Jp-Features` into the mod folder and override the existing 3 jp_*.json files
+4. Optional: To enable *\~Kawaii\~* features, extract `Zets-Hair-Jp-Features` into the mod folder and override the existing 3 `jp_*.json` files
 
 For example, if you play with [Cataclysm++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod), then unzip the folder `Zets-Hair-Cata-plusplus.zip` folder into `Zets-Hair-Extensions`. Easy right?
 
