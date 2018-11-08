@@ -5,7 +5,7 @@
     "name": "Cute Aqua Hair",
     "description": "You are wearing an aqua wig. ~Kawaii~",
     "points": 0,
-    "starting_trait": true,
+    "starting_trait": false,
     "purifiable": false,
 	  "profession": true,
     "cancels": [
@@ -34,7 +34,7 @@
     "name": "Cute Black Hair",
     "description": "You are wearing a black wig. ~Kawaii~",
     "points": 0,
-    "starting_trait": true,
+    "starting_trait": false,
     "purifiable": false,
 	  "profession": true,
     "cancels": [
@@ -63,7 +63,7 @@
     "name": "Cute Blonde Hair",
     "description": "You are wearing a blond wig. ~Kawaii~",
     "points": 0,
-    "starting_trait": true,
+    "starting_trait": false,
     "purifiable": false,
 	  "profession": true,
     "cancels": [
@@ -92,7 +92,7 @@
     "name": "Cute Blue Hair",
     "description": "You are wearing a blue wig. ~Kawaii~",
     "points": 0,
-    "starting_trait": true,
+    "starting_trait": false,
     "purifiable": false,
 	  "profession": true,
     "cancels": [
@@ -121,7 +121,7 @@
     "name": "Cute Brown Hair",
     "description": "You are wearing a brown wig. ~Kawaii~",
     "points": 0,
-    "starting_trait": true,
+    "starting_trait": false,
     "purifiable": false,
 	  "profession": true,
     "cancels": [
@@ -150,7 +150,7 @@
     "name": "Cute Green Hair",
     "description": "You are wearing a green wig. ~Kawaii~",
     "points": 0,
-    "starting_trait": true,
+    "starting_trait": false,
     "purifiable": false,
 	  "profession": true,
     "cancels": [
@@ -179,7 +179,7 @@
     "name": "Cute Grey Hair",
     "description": "You are wearing a grey wig. ~Kawaii~",
     "points": 0,
-    "starting_trait": true,
+    "starting_trait": false,
     "purifiable": false,
 	  "profession": true,
     "cancels": [
@@ -208,7 +208,7 @@
     "name": "Cute Orange Hair",
     "description": "You are wearing an orange wig. ~Kawaii~",
     "points": 0,
-    "starting_trait": true,
+    "starting_trait": false,
     "purifiable": false,
 	  "profession": true,
     "cancels": [
@@ -237,7 +237,7 @@
     "name": "Cute Pink Hair",
     "description": "You are wearing a pink wig. ~Kawaii~",
     "points": 0,
-    "starting_trait": true,
+    "starting_trait": false,
     "purifiable": false,
 	  "profession": true,
     "cancels": [
@@ -266,7 +266,7 @@
     "name": "Cute Purple Hair",
     "description": "You are wearing a purple wig. ~Kawaii~",
     "points": 0,
-    "starting_trait": true,
+    "starting_trait": false,
     "purifiable": false,
 	  "profession": true,
     "cancels": [
@@ -295,7 +295,7 @@
     "name": "Cute Red Hair",
     "description": "You are wearing a red wig. ~Kawaii~",
     "points": 0,
-    "starting_trait": true,
+    "starting_trait": false,
     "purifiable": false,
 	  "profession": true,
     "cancels": [
@@ -324,7 +324,7 @@
     "name": "Cute White Hair",
     "description": "You are wearing a white wig. ~Kawaii~",
     "points": 0,
-    "starting_trait": true,
+    "starting_trait": false,
     "purifiable": false,
 	  "profession": true,
     "cancels": [
