@@ -5,12 +5,15 @@ Hehe pun intended. Created to fix the Hairs+ mod for DeadPeopleTileset. Also, th
 Requires [DeadPeopleTileset](https://github.com/SomeDeadGuy/Cata-MSX-DeadPeopleTileset). It's a great tileset! Try it out :satisfied:
 
 # Usage Guide
-1. Copy the entire mod folder to `<CDDAInstallationFolder>\data\mods`
-2. Extract the ZIPs of the mods that you play into the mod folder
-3. Enable `Zetsukaze's Hair Extensions` and enjoy the variety of hairs, eyes and skins!
-4. Optional: To enable *\~Kawaii\~* features, extract `Zets-Hair-Jp-Features` into the mod folder and override the existing 3 `jp_*.json` files
+This mod can be enabled mid-game, however you will need to debug in features for yourself and any existing NPCs. New NPCs will have their own features!
+1. Unzip the downloaded file and copy the mod folder into `<CDDAInstallationFolder>\data\mods`
+2. Enable in CDDA `Zetsukaze's Hair Extensions` and enjoy the variety of hairs, eyes and skins!
 
-For example, if you play with [Cataclysm++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod), then unzip the folder `Zets-Hair-Cata-plusplus.zip` folder into `Zets-Hair-Extensions`. Easy right?
+## Optional Steps
+3. For mod support, extract the addon ZIPs of the mods you play with and enable them in CDDA
+4. To enable *\~Kawaii\~* features, extract `Zets-Hair-Jp-Features`, copy and override the existing 3 `jp_*.json` files in the main mod folder
+
+For example, if you play with [Cataclysm++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod), then unzip the folder `Zets-Hair-Cata-plusplus.zip` folder and enable `Zet's Hair - Cataclysm++` in CDDA. Easy right?
 
 The Japanese features will still be available through debug if step 4 is not done, however they will not be available for selection for character creation.
 
@@ -26,9 +29,9 @@ Weighted chances of hair, eye and skin colour based on ethnicity statistics. If 
 * [PK's Rebalancing](https://github.com/dissociativity/PKs_Rebalancing)
 
 ### Issues
-Do let me know if there are NPCs wandering around without any hair! You have to redefine the entire NPC class with the additional traits, as `"copy-from"` does not work, unfortunately, so each mod has to have their npc classes replicated. So, if any mod has updated their NPC class, do let me know so I can update as well, if not they will be missing updates.
+Do let me know if there are NPCs wandering around without any hair! You have to redefine the entire NPC class with the additional traits, as `"copy-from"` does not work, unfortunately, so each mod has to have their npc classes replicated. If any mod has updated their NPC class, do let me know so I can update as well, if not they will be missing updates.
 
-If you want a mod added, feel free to let me know!
+If you want support for a mod's NPCs added, feel free to let me know!
 
 # My CDDA Mods
 [Zetsukaze's Hair Extensions](https://github.com/Zetsukaze/Zets-Hair-Extensions)
