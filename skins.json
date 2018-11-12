@@ -16,8 +16,8 @@
   {
     "id": "SKIN_DARK",
     "type": "mutation",
-    "name": "Dark Skin",
-    "description": "You have a dark skin tone.",
+    "name": "Black Skin",
+    "description": "You have a black skin tone.",
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
