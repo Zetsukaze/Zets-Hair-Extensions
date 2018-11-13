@@ -11,7 +11,7 @@ This mod can be enabled mid-game, however you will need to debug in features for
 
 ## Optional Steps
 3. For mod support, extract the addon ZIPs of the mods you play with and enable them in CDDA
-4. To enable *\~Kawaii\~* features, extract `Zets-Hair-Jp-Features`, copy and override the existing 3 `jp_*.json` files in the main mod folder
+4. To enable *\~Kawaii\~* features, extract `Zets-Hair-Jp-Features`, cut and paste over the existing 3 `jp_*.json` files in the main mod folder
 
 For example, if you play with [Cataclysm++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod), then unzip the folder `Zets-Hair-Cata-plusplus.zip` and enable `Zet's Hair - Cataclysm++` in CDDA. Easy right?
 
