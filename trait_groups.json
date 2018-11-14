@@ -36,7 +36,8 @@
           { "trait": "PALE", "prob": 20 },
           { "trait": "SKIN_LIGHT", "prob": 30 },
           { "trait": "SKIN_PINK", "prob": 35 },
-          { "trait": "SKIN_MEDIUM", "prob": 10 },
+          { "trait": "SKIN_YELLOW", "prob": 5 },
+          { "trait": "SKIN_MEDIUM", "prob": 5 },
           { "trait": "SKIN_TAN", "prob": 5 },
           { "trait": "SKIN_DARK", "prob": 0 }
         ], "prob" : 100
@@ -74,8 +75,9 @@
         "distribution": [
           { "trait": "PALE", "prob": 0 },
           { "trait": "SKIN_LIGHT", "prob": 5 },
-          { "trait": "SKIN_PINK", "prob": 15 },
-          { "trait": "SKIN_MEDIUM", "prob": 45 },
+          { "trait": "SKIN_PINK", "prob": 10 },
+          { "trait": "SKIN_YELLOW", "prob": 10 },
+          { "trait": "SKIN_MEDIUM", "prob": 40 },
           { "trait": "SKIN_TAN", "prob": 25 },
           { "trait": "SKIN_DARK", "prob": 10 }
         ], "prob" : 100
@@ -114,6 +116,7 @@
           { "trait": "PALE", "prob": 0 },
           { "trait": "SKIN_LIGHT", "prob": 0 },
           { "trait": "SKIN_PINK", "prob": 0 },
+          { "trait": "SKIN_YELLOW", "prob": 0 },
           { "trait": "SKIN_MEDIUM", "prob": 5 },
           { "trait": "SKIN_TAN", "prob": 15 },
           { "trait": "SKIN_DARK", "prob": 80 }
@@ -153,6 +156,7 @@
           { "trait": "PALE" },
           { "trait": "SKIN_LIGHT" },
           { "trait": "SKIN_PINK" },
+          { "trait": "SKIN_YELLOW" },
           { "trait": "SKIN_MEDIUM" },
           { "trait": "SKIN_TAN" },
           { "trait": "SKIN_DARK" }

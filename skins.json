@@ -9,7 +9,7 @@
     "purifiable": false,
 	  "profession": true,
     "cancels": [
-      "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN",
+      "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN", "SKIN_YELLOW",
       "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP", "SKIN_PINK_JP", "SKIN_TAN_JP"
     ]
   },
@@ -23,7 +23,7 @@
     "purifiable": false,
     "profession": true,
     "cancels": [
-      "PALE", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN",
+      "PALE", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN", "SKIN_YELLOW",
       "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP", "SKIN_PINK_JP", "SKIN_TAN_JP"
     ]
   },
@@ -37,7 +37,7 @@
     "purifiable": false,
     "profession": true,
     "cancels": [
-      "PALE", "SKIN_DARK", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN",
+      "PALE", "SKIN_DARK", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN", "SKIN_YELLOW",
       "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP", "SKIN_PINK_JP", "SKIN_TAN_JP"
     ]
   },
@@ -51,7 +51,7 @@
     "purifiable": false,
     "profession": true,
     "cancels": [
-      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_PINK", "SKIN_TAN",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_PINK", "SKIN_TAN", "SKIN_YELLOW",
       "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP", "SKIN_PINK_JP", "SKIN_TAN_JP"
     ]
   },
@@ -65,7 +65,7 @@
     "purifiable": false,
     "profession": true,
     "cancels": [
-      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_TAN",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_TAN", "SKIN_YELLOW",
       "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP", "SKIN_PINK_JP", "SKIN_TAN_JP"
     ]
   },
@@ -79,8 +79,22 @@
     "purifiable": false,
     "profession": true,
     "cancels": [
-      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK",
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_YELLOW",
       "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP", "SKIN_PINK_JP", "SKIN_TAN_JP"
     ]
-  }
+  },
+  {
+    "id": "SKIN_YELLOW",
+    "type": "mutation",
+    "name": "Yellow Skin",
+    "description": "You have a yellow skin tone.",
+    "points": 0,
+    "starting_trait": true,
+    "purifiable": false,
+    "profession": true,
+    "cancels": [
+      "PALE", "SKIN_DARK", "SKIN_LIGHT", "SKIN_MEDIUM", "SKIN_PINK", "SKIN_TAN",
+      "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP", "SKIN_PINK_JP", "SKIN_TAN_JP"
+    ]
+  },
 ]
