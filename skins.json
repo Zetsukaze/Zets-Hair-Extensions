@@ -16,8 +16,8 @@
   {
     "id": "SKIN_DARK",
     "type": "mutation",
-    "name": "Black Skin",
-    "description": "You have a black skin tone.",
+    "name": "Dark Brown Skin",
+    "description": "You have a dark brown skin tone.",
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
@@ -72,8 +72,8 @@
   {
     "id": "SKIN_TAN",
     "type": "mutation",
-    "name": "Brown Skin",
-    "description": "You have a brown skin tone.",
+    "name": "Bronze Skin",
+    "description": "You have a bronzed skin tone.",
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
