@@ -7,7 +7,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	  "profession": true,
+	"player_display": false,
+	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
       "hair6black", "hair7black", "hair8black", "hair9black", "hair10black",
@@ -36,7 +37,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	  "profession": true,
+	"player_display": false,
+	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
       "hair6black", "hair7black", "hair8black", "hair9black", "hair10black",
@@ -65,7 +67,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	  "profession": true,
+	"player_display": false,
+	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
       "hair6black", "hair7black", "hair8black", "hair9black", "hair10black",
@@ -94,7 +97,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	  "profession": true,
+	"player_display": false,
+	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
       "hair6black", "hair7black", "hair8black", "hair9black", "hair10black",
@@ -123,7 +127,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	  "profession": true,
+	"player_display": false,
+	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
       "hair6black", "hair7black", "hair8black", "hair9black", "hair10black",
@@ -152,7 +157,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	  "profession": true,
+	"player_display": false,
+	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
       "hair6black", "hair7black", "hair8black", "hair9black", "hair10black",
@@ -181,7 +187,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	  "profession": true,
+	"player_display": false,
+	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
       "hair6black", "hair7black", "hair8black", "hair9black", "hair10black",
@@ -210,7 +217,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	  "profession": true,
+	"player_display": false,
+	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
       "hair6black", "hair7black", "hair8black", "hair9black", "hair10black",
@@ -239,7 +247,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	  "profession": true,
+	"player_display": false,
+	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
       "hair6black", "hair7black", "hair8black", "hair9black", "hair10black",
@@ -268,7 +277,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	  "profession": true,
+	"player_display": false,
+	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
       "hair6black", "hair7black", "hair8black", "hair9black", "hair10black",
@@ -297,7 +307,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	  "profession": true,
+	"player_display": false,
+	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
       "hair6black", "hair7black", "hair8black", "hair9black", "hair10black",
@@ -326,7 +337,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	  "profession": true,
+	"player_display": false,
+	"types": "hair_style",
     "cancels": [
       "HAIR_BLACK", "hair2black", "hair3black", "hair4black", "hair5black",
       "hair6black", "hair7black", "hair8black", "hair9black", "hair10black",

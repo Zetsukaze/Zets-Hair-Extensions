@@ -7,17 +7,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-	  "profession": true,
-    "cancels": [
-      "EYE_BLUE_JP", "EYE_BLUE_JP_2",
-      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
-      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
-      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
-      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
-      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
-      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
-      "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP","SKIN_PINK_JP", "SKIN_TAN_JP"
-    ]
+	"player_display": false,
+    "types": [ "eye_color" ]
   },
   {
     "id": "EYE_BROWN",
@@ -27,17 +18,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-	  "profession": true,
-    "cancels": [
-      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
-      "EYE_BROWN_JP", "EYE_BROWN_JP_2",
-      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
-      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
-      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
-      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
-      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
-      "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP","SKIN_PINK_JP", "SKIN_TAN_JP"
-    ]
+	"player_display": false,
+    "types": [ "eye_color" ]
   },
   {
     "id": "EYE_GRAY",
@@ -47,17 +29,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-	  "profession": true,
-    "cancels": [
-      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
-      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
-      "EYE_GRAY_JP", "EYE_GRAY_JP_2",
-      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
-      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
-      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
-      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
-      "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP","SKIN_PINK_JP", "SKIN_TAN_JP"
-    ]
+	"player_display": false,
+    "types": [ "eye_color" ]
   },
   {
     "id": "EYE_GREEN",
@@ -67,17 +40,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-	  "profession": true,
-    "cancels": [
-      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
-      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
-      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
-      "EYE_GREEN_JP", "EYE_GREEN_JP_2",
-      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
-      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
-      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
-      "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP","SKIN_PINK_JP", "SKIN_TAN_JP"
-    ]
+	"player_display": false,
+    "types": [ "eye_color" ]
   },
   {
     "id": "EYE_RED",
@@ -87,17 +51,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-	  "profession": true,
-    "cancels": [
-      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
-      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
-      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
-      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
-      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
-      "EYE_RED_JP", "EYE_RED_JP_2",
-      "EYE_YELLOW", "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
-      "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP","SKIN_PINK_JP", "SKIN_TAN_JP"
-    ]
+	"player_display": false,
+    "types": [ "eye_color" ]
   },
   {
     "id": "EYE_YELLOW",
@@ -107,16 +62,7 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-	  "profession": true,
-    "cancels": [
-      "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
-      "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
-      "EYE_GRAY", "EYE_GRAY_JP", "EYE_GRAY_JP_2",
-      "EYE_GREEN", "EYE_GREEN_JP", "EYE_GREEN_JP_2",
-      "EYE_PURPLE_JP", "EYE_PURPLE_JP_2",
-      "EYE_RED", "EYE_RED_JP", "EYE_RED_JP_2",
-      "EYE_YELLOW_JP", "EYE_YELLOW_JP_2",
-      "SKIN_DARK_JP", "SKIN_LIGHT_JP", "SKIN_MEDIUM_JP", "SKIN_PALE_JP","SKIN_PINK_JP", "SKIN_TAN_JP"
-    ]
+	"player_display": false,
+    "types": [ "eye_color" ]
   }
 ]

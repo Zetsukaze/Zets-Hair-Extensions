@@ -7,24 +7,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair2black",
@@ -34,24 +18,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair3black",
@@ -61,24 +29,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair4black",
@@ -88,24 +40,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair5black",
@@ -115,24 +51,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair6black",
@@ -142,24 +62,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair7black",
@@ -169,24 +73,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair8black",
@@ -196,24 +84,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair9black",
@@ -223,24 +95,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair10black",
@@ -250,24 +106,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair1blond",
@@ -277,24 +117,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair2blond",
@@ -304,24 +128,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair3blond",
@@ -331,24 +139,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair4blond",
@@ -358,24 +150,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair5blond",
@@ -385,24 +161,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair6blond",
@@ -412,24 +172,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair7blond",
@@ -439,24 +183,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair8blond",
@@ -466,24 +194,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair9blond",
@@ -493,24 +205,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair10blond",
@@ -520,24 +216,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair1brown",
@@ -547,24 +227,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair2brown",
@@ -574,24 +238,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair3brown",
@@ -601,24 +249,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair4brown",
@@ -628,24 +260,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair5brown",
@@ -655,24 +271,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair6brown",
@@ -682,24 +282,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair7brown",
@@ -709,24 +293,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair8brown",
@@ -736,24 +304,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair9brown",
@@ -763,24 +315,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair10brown",
@@ -790,24 +326,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+	"types": [ "facial_hair" ]
   },
   {
     "id": "forehair1gray",
@@ -817,24 +337,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair2gray",
@@ -844,24 +348,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair3gray",
@@ -871,24 +359,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair4gray",
@@ -898,24 +370,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair5gray",
@@ -925,24 +381,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair6gray",
@@ -952,24 +392,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair7gray",
@@ -979,24 +403,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair8gray",
@@ -1006,24 +414,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair9gray",
@@ -1033,24 +425,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair10gray",
@@ -1060,24 +436,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair1pink",
@@ -1087,24 +447,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair2pink",
@@ -1114,24 +458,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair3pink",
@@ -1141,24 +469,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair4pink",
@@ -1168,24 +480,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair5pink",
@@ -1195,24 +491,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair6pink",
@@ -1222,24 +502,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair7pink",
@@ -1249,24 +513,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair8pink",
@@ -1276,24 +524,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair9pink",
@@ -1303,24 +535,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair10pink",
@@ -1330,24 +546,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair1red",
@@ -1357,24 +557,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair2red",
@@ -1384,24 +568,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair3red",
@@ -1411,24 +579,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair4red",
@@ -1438,24 +590,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair5red",
@@ -1465,24 +601,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair6red",
@@ -1492,24 +612,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair7red",
@@ -1519,24 +623,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair8red",
@@ -1546,24 +634,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair9red",
@@ -1573,24 +645,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair10red",
@@ -1600,24 +656,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair1white",
@@ -1627,24 +667,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair2white",
@@ -1654,24 +678,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair3white",
@@ -1681,24 +689,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair4white",
@@ -1708,24 +700,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair5white",
@@ -1735,24 +711,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair6white",
@@ -1762,24 +722,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair7white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair7white",
@@ -1789,24 +733,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair8white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair8white",
@@ -1816,24 +744,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair9white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair9white",
@@ -1843,24 +755,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair10white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "forehair10white",
@@ -1870,24 +766,8 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white",
-      "noforehair"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   },
   {
     "id": "noforehair",
@@ -1897,22 +777,7 @@
     "points": 0,
     "starting_trait": true,
     "purifiable": false,
-    "profession": true,
-    "cancels": [
-      "forehair1black", "forehair2black", "forehair3black", "forehair4black", "forehair5black",
-      "forehair6black", "forehair7black", "forehair8black", "forehair9black", "forehair10black",
-      "forehair1blond", "forehair2blond", "forehair3blond", "forehair4blond", "forehair5blond",
-      "forehair6blond", "forehair7blond", "forehair8blond", "forehair9blond", "forehair10blond",
-      "forehair1brown", "forehair2brown", "forehair3brown", "forehair4brown", "forehair5brown",
-      "forehair6brown", "forehair7brown", "forehair8brown", "forehair9brown", "forehair10brown",
-      "forehair1gray", "forehair2gray", "forehair3gray", "forehair4gray", "forehair5gray",
-      "forehair6gray", "forehair7gray", "forehair8gray", "forehair9gray", "forehair10gray",
-      "forehair1pink", "forehair2pink", "forehair3pink", "forehair4pink", "forehair5pink",
-      "forehair6pink", "forehair7pink", "forehair8pink", "forehair9pink", "forehair10pink",
-      "forehair1red", "forehair2red", "forehair3red", "forehair4red", "forehair5red",
-      "forehair6red", "forehair7red", "forehair8red", "forehair9red", "forehair10red",
-      "forehair1white", "forehair2white", "forehair3white", "forehair4white", "forehair5white",
-      "forehair6white", "forehair7white", "forehair8white", "forehair9white", "forehair10white"
-    ]
+    "player_display": false,
+    "types": [ "facial_hair" ]
   }
 ]

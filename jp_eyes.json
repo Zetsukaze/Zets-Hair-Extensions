@@ -7,7 +7,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-    "profession": true,
+    "player_display": false,
+	"types": "eye_color",
     "cancels": [
       "EYE_BLUE", "EYE_BLUE_JP_2",
       "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
@@ -27,7 +28,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-    "profession": true,
+    "player_display": false,
+	"types": "eye_color",
     "cancels": [
       "EYE_BLUE", "EYE_BLUE_JP",
       "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
@@ -47,7 +49,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-    "profession": true,
+    "player_display": false,
+	"types": "eye_color",
     "cancels": [
       "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
       "EYE_BROWN", "EYE_BROWN_JP_2",
@@ -67,7 +70,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-    "profession": true,
+    "player_display": false,
+	"types": "eye_color",
     "cancels": [
       "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
       "EYE_BROWN", "EYE_BROWN_JP",
@@ -87,7 +91,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-    "profession": true,
+    "player_display": false,
+	"types": "eye_color",
     "cancels": [
       "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
       "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
@@ -107,7 +112,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-    "profession": true,
+    "player_display": false,
+	"types": "eye_color",
     "cancels": [
       "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
       "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
@@ -127,7 +133,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-    "profession": true,
+    "player_display": false,
+	"types": "eye_color",
     "cancels": [
       "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
       "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
@@ -147,7 +154,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-    "profession": true,
+    "player_display": false,
+	"types": "eye_color",
     "cancels": [
       "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
       "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
@@ -167,7 +175,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-    "profession": true,
+    "player_display": false,
+	"types": "eye_color",
     "cancels": [
       "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
       "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
@@ -187,7 +196,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-    "profession": true,
+    "player_display": false,
+	"types": "eye_color",
     "cancels": [
       "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
       "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
@@ -207,7 +217,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	  "profession": true,
+	"player_display": false,
+	"types": "eye_color",
     "cancels": [
       "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
       "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
@@ -227,7 +238,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	  "profession": true,
+	"player_display": false,
+	"types": "eye_color",
     "cancels": [
       "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
       "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
@@ -247,7 +259,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	  "profession": true,
+	"player_display": false,
+	"types": "eye_color",
     "cancels": [
       "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
       "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",
@@ -267,7 +280,8 @@
     "points": 0,
     "starting_trait": false,
     "purifiable": false,
-	  "profession": true,
+	"player_display": false,
+	"types": "eye_color",
     "cancels": [
       "EYE_BLUE", "EYE_BLUE_JP", "EYE_BLUE_JP_2",
       "EYE_BROWN", "EYE_BROWN_JP", "EYE_BROWN_JP_2",

@@ -1,271 +1,124 @@
 [
   {
-    "id": "basicFeatures",
     "type": "trait_group",
-    "subtype": "distribution",
-    "traits": [
-	    { "group": "whiteEthnicity", "prob": 77 },
-      { "group": "hispanicEthnicity", "prob": 10 },
-      { "group": "blackEthnicity", "prob": 7 },
-      { "group": "otherEthnicity", "prob": 6 }
-    ]
+    "id": "Appearance_Irish",
+    "subtype": "collection",
+    "traits": [ { "group": "Eyes_Irish", "prob": 100 }, { "group": "Skin_Freckles", "prob": 70 } ]
   },
   {
-    "id": "whiteEthnicity",
     "type": "trait_group",
+    "id": "Appearance_Caucasian",
+    "subtype": "collection",
+    "traits": [ { "group": "Eyes_Any", "prob": 100 }, { "group": "Skin_Freckles", "prob": 50 } ]
+  },
+  {
+    "type": "trait_group",
+    "id": "Appearance_Germanic",
+    "subtype": "collection",
+    "traits": [ { "group": "Eyes_Fair", "prob": 100 }, { "group": "Skin_Freckles", "prob": 50 } ]
+  },
+  {
+    "type": "trait_group",
+    "id": "Appearance_Latin",
+    "subtype": "collection",
+    "traits": [ { "group": "Eyes_Medium", "prob": 100 }, { "group": "Skin_Freckles", "prob": 20 } ]
+  },
+  {
+    "type": "trait_group",
+    "id": "Appearance_African",
+    "subtype": "collection",
+    "traits": [ { "group": "Eyes_Dark", "prob": 100 }, { "group": "Skin_Freckles", "prob": 5 } ]
+  },
+  {
+    "type": "trait_group",
+    "id": "Appearance_EastAsian",
+    "subtype": "collection",
+    "traits": [ { "group": "Eyes_Medium", "prob": 100 }, { "group": "Skin_Freckles", "prob": 5 } ]
+  },
+  {
+    "type": "trait_group",
+    "id": "Appearance_SouthAsian",
+    "subtype": "collection",
+    "traits": [ { "group": "Eyes_Dark", "prob": 100 }, { "group": "Skin_Freckles", "prob": 5 } ]
+  },
+  {
+    "type": "trait_group",
+    "id": "Appearance_Mixed",
+    "subtype": "collection",
+    "traits": [ { "group": "Eyes_Any", "prob": 100 }, { "group": "Skin_Freckles", "prob": 40 } ]
+  },
+  {
+    "type": "trait_group",
+    "id": "Skin_Freckles",
     "subtype": "collection",
     "traits": [
-	    { "distribution": [
-          { "group": "blackHair", "prob": 6 },
-          { "group": "blondHair", "prob": 14 },
-          { "group": "brownHair", "prob": 58 },
-          { "group": "redHair", "prob": 2 },
-          { "group": "dyedHair", "prob": 20 }
-        ], "prob" : 100
-      },
-      { "distribution": [
-          { "trait": "EYE_BLUE", "prob": 31 },
-          { "trait": "EYE_BROWN", "prob": 48 },
-          { "trait": "EYE_GRAY", "prob": 2 },
-          { "trait": "EYE_GREEN", "prob": 14 },
-          { "group": "contactLens", "prob": 5 }
-        ], "prob" : 100
-      },
-      {
-        "distribution": [
-          { "trait": "PALE", "prob": 20 },
-          { "trait": "SKIN_LIGHT", "prob": 30 },
-          { "trait": "SKIN_PINK", "prob": 35 },
-          { "trait": "SKIN_YELLOW", "prob": 5 },
-          { "trait": "SKIN_MEDIUM", "prob": 5 },
-          { "trait": "SKIN_TAN", "prob": 5 },
-          { "trait": "SKIN_DARK", "prob": 0 }
-        ], "prob" : 100
-      },
-      {
-        "distribution": [
-          { "trait": "DENSE_FRECKLES" },
-          { "trait": "LIGHT_FRECKLES" }
-        ], "prob" : 25
-      }
+      { "trait": "DENSE_FRECKLES", "prob": 25 },
+      { "trait": "LIGHT_FRECKLES", "prob": 45 }
     ]
   },
   {
-    "id": "hispanicEthnicity",
     "type": "trait_group",
-    "subtype": "collection",
-    "traits": [
-	    { "distribution": [
-          { "group": "blackHair", "prob": 30 },
-          { "group": "blondHair", "prob": 1 },
-          { "group": "brownHair", "prob": 48 },
-          { "group": "redHair", "prob": 1 },
-          { "group": "dyedHair", "prob": 20 }
-        ], "prob" : 100
-      },
-      { "distribution": [
-          { "trait": "EYE_BLUE", "prob": 32 },
-          { "trait": "EYE_BROWN", "prob": 48 },
-          { "trait": "EYE_GRAY", "prob": 1 },
-          { "trait": "EYE_GREEN", "prob": 14 },
-          { "group": "contactLens", "prob": 5 }
-        ], "prob" : 100
-      },
-      {
-        "distribution": [
-          { "trait": "PALE", "prob": 0 },
-          { "trait": "SKIN_LIGHT", "prob": 5 },
-          { "trait": "SKIN_PINK", "prob": 10 },
-          { "trait": "SKIN_YELLOW", "prob": 10 },
-          { "trait": "SKIN_MEDIUM", "prob": 40 },
-          { "trait": "SKIN_TAN", "prob": 25 },
-          { "trait": "SKIN_DARK", "prob": 10 }
-        ], "prob" : 100
-      },
-      {
-        "distribution": [
-          { "trait": "DENSE_FRECKLES" },
-          { "trait": "LIGHT_FRECKLES" }
-        ], "prob" : 10
-      }
-    ]
-  },
-  {
-    "id": "blackEthnicity",
-    "type": "trait_group",
-    "subtype": "collection",
-    "traits": [
-	    { "distribution": [
-          { "group": "blackHair", "prob": 60 },
-          { "group": "blondHair", "prob": 1 },
-          { "group": "brownHair", "prob": 18 },
-          { "group": "redHair", "prob": 1 },
-          { "group": "dyedHair", "prob": 20 }
-        ], "prob" : 100
-      },
-      { "distribution": [
-          { "trait": "EYE_BLUE", "prob": 1 },
-          { "trait": "EYE_BROWN", "prob": 92 },
-          { "trait": "EYE_GRAY", "prob": 1 },
-          { "trait": "EYE_GREEN", "prob": 1 },
-          { "group": "contactLens", "prob": 5 }
-        ], "prob" : 100
-      },
-      {
-        "distribution": [
-          { "trait": "PALE", "prob": 0 },
-          { "trait": "SKIN_LIGHT", "prob": 0 },
-          { "trait": "SKIN_PINK", "prob": 0 },
-          { "trait": "SKIN_YELLOW", "prob": 0 },
-          { "trait": "SKIN_MEDIUM", "prob": 5 },
-          { "trait": "SKIN_TAN", "prob": 15 },
-          { "trait": "SKIN_DARK", "prob": 80 }
-        ], "prob" : 100
-      },
-      {
-        "distribution": [
-          { "trait": "DENSE_FRECKLES" },
-          { "trait": "LIGHT_FRECKLES" }
-        ], "prob" : 5
-      }
-    ]
-  },
-  {
-    "id": "otherEthnicity",
-    "type": "trait_group",
-    "subtype": "collection",
-    "traits": [
-	    { "distribution": [
-          { "group": "blackHair", "prob": 20 },
-          { "group": "blondHair", "prob": 20 },
-          { "group": "brownHair", "prob": 20 },
-          { "group": "redHair", "prob": 20 },
-          { "group": "dyedHair", "prob": 20 }
-        ], "prob" : 100
-      },
-      { "distribution": [
-          { "trait": "EYE_BLUE", "prob": 24 },
-          { "trait": "EYE_BROWN", "prob": 24 },
-          { "trait": "EYE_GRAY", "prob": 23 },
-          { "trait": "EYE_GREEN", "prob": 24 },
-          { "group": "contactLens", "prob": 5 }
-        ], "prob" : 100
-      },
-      {
-        "distribution": [
-          { "trait": "PALE" },
-          { "trait": "SKIN_LIGHT" },
-          { "trait": "SKIN_PINK" },
-          { "trait": "SKIN_YELLOW" },
-          { "trait": "SKIN_MEDIUM" },
-          { "trait": "SKIN_TAN" },
-          { "trait": "SKIN_DARK" }
-        ], "prob" : 100
-      },
-      {
-        "distribution": [
-          { "trait": "DENSE_FRECKLES" },
-          { "trait": "LIGHT_FRECKLES" }
-        ], "prob" : 20
-      }
-    ]
-  },
-  {
-    "id": "blackHair",
-    "type": "trait_group",
+    "id": "Eyes_Any",
     "subtype": "distribution",
     "traits": [
-      {
-        "distribution": [
-          { "trait": "HAIR_BLACK" }, { "trait": "hair2black" }, { "trait": "hair3black" }, { "trait": "hair4black" }, { "trait": "hair5black" },
-          { "trait": "hair6black" }, { "trait": "hair7black" }, { "trait": "hair8black" }, { "trait": "hair9black" }, { "trait": "hair10black" }
-        ], "prob": 80
-      },
-      { "group": "oldHair", "prob": 20 }
+      { "trait": "EYE_BROWN", "prob": 25 },
+      { "trait": "EYE_GRAY", "prob": 25 },
+      { "trait": "EYE_GREEN", "prob": 25 },
+      { "trait": "EYE_BLUE", "prob": 25 }
     ]
   },
   {
-    "id": "blondHair",
     "type": "trait_group",
+    "id": "Eyes_Irish",
     "subtype": "distribution",
     "traits": [
-      {
-        "distribution": [
-          { "trait": "HAIR_BLONDE" }, { "trait": "hair2blond" }, { "trait": "hair3blond" }, { "trait": "hair4blond" }, { "trait": "hair5blond" },
-          { "trait": "hair6blond" }, { "trait": "hair7blond" }, { "trait": "hair8blond" }, { "trait": "hair9blond" }, { "trait": "hair10blond" }
-        ], "prob": 80
-      },
-      { "group": "oldHair", "prob": 20 }
+      { "trait": "EYE_GREEN", "prob": 40 },
+      { "trait": "EYE_BLUE", "prob": 30 },
+      { "trait": "EYE_GRAY", "prob": 20 },
+      { "trait": "EYE_BROWN", "prob": 10 }
     ]
   },
   {
-    "id": "brownHair",
     "type": "trait_group",
+    "id": "Eyes_Fair",
     "subtype": "distribution",
     "traits": [
-      {
-        "distribution": [
-          { "trait": "HAIR_BROWN" }, { "trait": "hair2brown" }, { "trait": "hair3brown" }, { "trait": "hair4brown" }, { "trait": "hair5brown" },
-          { "trait": "hair6brown" }, { "trait": "hair7brown" }, { "trait": "hair8brown" }, { "trait": "hair9brown" }, { "trait": "hair10brown" }
-        ], "prob": 80
-      },
-      { "group": "oldHair", "prob": 20 }
+      { "trait": "EYE_BLUE", "prob": 40 },
+      { "trait": "EYE_GREEN", "prob": 20 },
+      { "trait": "EYE_GRAY", "prob": 20 },
+      { "trait": "EYE_BROWN", "prob": 20 }
     ]
   },
   {
-    "id": "redHair",
     "type": "trait_group",
+    "id": "Eyes_Medium",
     "subtype": "distribution",
     "traits": [
-      {
-        "distribution": [
-          { "trait": "HAIR_RED" }, { "trait": "hair2red" }, { "trait": "hair3red" }, { "trait": "hair4red" }, { "trait": "hair5red" },
-          { "trait": "hair6red" }, { "trait": "hair7red" }, { "trait": "hair8red" }, { "trait": "hair9red" }, { "trait": "hair10red" }
-        ], "prob": 80
-      },
-      { "group": "oldHair", "prob": 20 }
+      { "trait": "EYE_BROWN", "prob": 65 },
+      { "trait": "EYE_GRAY", "prob": 33 },
+      { "trait": "EYE_GREEN", "prob": 1 },
+      { "trait": "EYE_BLUE", "prob": 1 }
     ]
   },
   {
-    "id": "dyedHair",
     "type": "trait_group",
+    "id": "Eyes_Dark",
     "subtype": "distribution",
     "traits": [
-      { "trait": "HAIR_BLACK" }, { "trait": "hair2black" }, { "trait": "hair3black" }, { "trait": "hair4black" }, { "trait": "hair5black" },
-      { "trait": "hair6black" }, { "trait": "hair7black" }, { "trait": "hair8black" }, { "trait": "hair9black" }, { "trait": "hair10black" },
-      { "trait": "HAIR_BLONDE" }, { "trait": "hair2blond" }, { "trait": "hair3blond" }, { "trait": "hair4blond" }, { "trait": "hair5blond" },
-      { "trait": "hair6blond" }, { "trait": "hair7blond" }, { "trait": "hair8blond" }, { "trait": "hair9blond" }, { "trait": "hair10blond" },
-      { "trait": "HAIR_BROWN" }, { "trait": "hair2brown" }, { "trait": "hair3brown" }, { "trait": "hair4brown" }, { "trait": "hair5brown" },
-      { "trait": "hair6brown" }, { "trait": "hair7brown" }, { "trait": "hair8brown" }, { "trait": "hair9brown" }, { "trait": "hair10brown" },
-      { "trait": "HAIR_GRAY" }, { "trait": "hair2gray" }, { "trait": "hair3gray" }, { "trait": "hair4gray" }, { "trait": "hair5gray" },
-      { "trait": "hair6gray" }, { "trait": "hair7gray" }, { "trait": "hair8gray" }, { "trait": "hair9gray" }, { "trait": "hair10gray" },
-      { "trait": "HAIR_PINK" }, { "trait": "hair2pink" }, { "trait": "hair3pink" }, { "trait": "hair4pink" }, { "trait": "hair5pink" },
-      { "trait": "hair6pink" }, { "trait": "hair7pink" }, { "trait": "hair8pink" }, { "trait": "hair9pink" }, { "trait": "hair10pink" },
-      { "trait": "HAIR_RED" }, { "trait": "hair2red" }, { "trait": "hair3red" }, { "trait": "hair4red" }, { "trait": "hair5red" },
-      { "trait": "hair6red" }, { "trait": "hair7red" }, { "trait": "hair8red" }, { "trait": "hair9red" }, { "trait": "hair10red" },
-      { "trait": "HAIR_WHITE" }, { "trait": "hair2white" }, { "trait": "hair3white" }, { "trait": "hair4white" }, { "trait": "hair5white" },
-      { "trait": "hair6white" }, { "trait": "hair7white" }, { "trait": "hair8white" }, { "trait": "hair9white" }, { "trait": "hair10white" }
+      { "trait": "EYE_BROWN", "prob": 75 },
+      { "trait": "EYE_GRAY", "prob": 23 },
+      { "trait": "EYE_GREEN", "prob": 1 },
+      { "trait": "EYE_BLUE", "prob": 1 }
     ]
   },
   {
-    "id": "oldHair",
     "type": "trait_group",
-    "subtype": "distribution",
-    "traits": [
-      { "trait": "HAIR_GRAY" }, { "trait": "hair2gray" }, { "trait": "hair3gray" }, { "trait": "hair4gray" }, { "trait": "hair5gray" },
-      { "trait": "hair6gray" }, { "trait": "hair7gray" }, { "trait": "hair8gray" }, { "trait": "hair9gray" }, { "trait": "hair10gray" },
-      { "trait": "HAIR_WHITE" }, { "trait": "hair2white" }, { "trait": "hair3white" }, { "trait": "hair4white" }, { "trait": "hair5white" },
-      { "trait": "hair6white" }, { "trait": "hair7white" }, { "trait": "hair8white" }, { "trait": "hair9white" }, { "trait": "hair10white" }
-    ]
-  },
-  {
-    "id": "contactLens",
-    "type": "trait_group",
+    "id": "Eyes_ContactLens",
     "subtype": "distribution",
     "traits": [
       { "trait": "EYE_BLUE" },
       { "trait": "EYE_BROWN" },
-      { "trait": "HAIR_GRAY" },
+      { "trait": "EYE_GRAY" },
       { "trait": "EYE_GREEN" },
       { "trait": "EYE_RED" },
       { "trait": "EYE_YELLOW" }
